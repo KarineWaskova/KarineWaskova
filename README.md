@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarineWaskova
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Rust, Golang
+- 🌱 I’m currently learning Rust, Golang, Javascript
 - 💞️ I’m looking to collaborate on Rust CMD platform
 - 📫 How to reach me [...](https://twitter.com/wass_kari)
 
